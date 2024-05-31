@@ -1,0 +1,26 @@
+ LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/advisory_testing.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/dummy.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/idummy.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/m1.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/odd.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_adapter.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_advice.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_compile_flags.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_declarations.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_document.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_element.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_exceptions.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_interface.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_interfaces.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_odd_declarations.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_registry.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_ro.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_sorting.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/tests/test_verify.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Lib/site-packages/zope/interface/verify.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Scripts/bottle.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'env/Scripts/vba_extract.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mail/.idea/inspectionProfiles/Project_Default.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mail/.idea/inspectionProfiles/profiles_settings.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mail/.idea/workspace.xml', LF will be replaced by CRLF the next time Git touches it
